@@ -1,0 +1,16 @@
+ADD YOUR VIDEOS IN THIS FOLDER
+1. Copy up to 5 video files into this exact folder.
+2. Supported: .mp4, .webm, .mov
+3. The app sorts filenames alphabetically and uses the first five.
+4. Suggested names:
+   1_video.mp4
+   2_video.mp4
+   3_video.mp4
+   4_video.mp4
+   5_video.mp4
+
+No video upload field appears on the website.
+Videos autoplay muted, loop continuously, and have no visible play/pause controls.
+To edit each video's caption, open birthday_data.json and edit the
+video_captions list in order.
+MP4 encoded with H.264 is recommended for browser compatibility.

@@ -1,0 +1,2 @@
+Optional manual video folder. The app also lets you upload 5 videos directly on the page.
+Supported: .mp4, .webm, .mov. Files are assigned in alphabetical order to the 5 video slides.

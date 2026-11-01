@@ -1,0 +1,14 @@
+ADD YOUR PHOTOS IN THIS FOLDER
+1. Copy up to 5 image files into this exact folder.
+2. Supported: .jpg, .jpeg, .png, .webp
+3. The app sorts filenames alphabetically and uses the first five.
+4. Suggested names:
+   1_photo.jpg
+   2_photo.jpg
+   3_photo.jpg
+   4_photo.jpg
+   5_photo.jpg
+
+No photo upload field appears on the website.
+To write/edit each photo's caption, open birthday_data.json and edit the
+photo_captions list in order.

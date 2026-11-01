@@ -1,0 +1,2 @@
+Optional manual photo folder. The app also lets you upload 5 photos directly on the page.
+Supported: .jpg, .jpeg, .png, .webp. Files are assigned in alphabetical order to the 5 photo slides.
