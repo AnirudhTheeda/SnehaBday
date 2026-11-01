@@ -1,0 +1,28 @@
+{
+  "name": "Srinivas",
+  "sender": "Your best friend",
+  "letter_greeting": "Dear You,",
+  "letter_text": "Happy Birthday!\n\nI hope your day is filled with love, laughter, and all the little things that make you smile.\n\nThank you for being such a special person. I’m wishing you a beautiful year ahead, full of happiness and wonderful memories.\n\nWith love,",
+  "letter_signoff": "Your best friend",
+  "balloon_words": [
+    "You",
+    "are",
+    "so",
+    "loved"
+  ],
+  "questions": [],
+  "photo_captions": [
+    "Write your first photo memory here.",
+    "Write your second photo memory here.",
+    "Write your third photo memory here.",
+    "Write your fourth photo memory here.",
+    "Write your fifth photo memory here."
+  ],
+  "video_captions": [
+    "A little video memory.",
+    "A moment worth remembering.",
+    "One of our favourite moments.",
+    "A memory to keep forever.",
+    "More beautiful moments."
+  ]
+}
