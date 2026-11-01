@@ -22,7 +22,7 @@ DEFAULT = {
     "letter_greeting": "Dear You,",
     "letter_text": "Happy Birthday!\n\nI hope your day is filled with love, laughter, and all the little things that make you smile.\n\nThank you for being such a special person. I’m wishing you a beautiful year ahead, full of happiness and wonderful memories.\n\nWith love,",
     "letter_signoff": "Your best friend",
-    "balloon_words": ["You", "are", "so", "loved"],
+    "balloon_words": ["Sneha", "is", "THOPU", "XD"],
     "questions": []
 }
 
