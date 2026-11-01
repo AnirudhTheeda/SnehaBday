@@ -7,7 +7,7 @@ import streamlit as st
 import streamlit.components.v1 as components
 
 st.set_page_config(
-    page_title="Happy Birthday",
+    page_title="PUTTINA ROJU SUBHAKANSHALU",
     page_icon="🎂",
     layout="wide",
     initial_sidebar_state="collapsed",
@@ -160,7 +160,7 @@ button{font-family:'DM Sans',sans-serif;cursor:pointer}
       <h1>Happy Birthday,<br><span id="friendTitle">Srinivas</span></h1>
       <div class="bunting">✦ △ ▽ △ ▽ ✦</div>
       <div class="birthday-art"><span class="bear">🐻‍❄️</span><span class="cake-mini">🎂</span></div>
-      <p class="question">Are you excited for what's next?</p>
+      <p class="question">Baaga excitement feel avthunnava?</p>
       <div class="choice-row">
         <button class="primary" onclick="showScene(1)">Yes</button>
         <button class="secondary" id="noBtn">No</button>
@@ -172,20 +172,20 @@ button{font-family:'DM Sans',sans-serif;cursor:pointer}
 
   <section class="scene" id="balloonScene">
     <div class="inner">
-      <h2>Pop all 4 balloons</h2>
+      <h2>Anni Budagalni pagalakottu</h2>
       <div class="balloon-note" id="balloonWords"></div>
       <div class="balloons" id="balloons"></div>
-      <p class="tiny" id="balloonHint">Tap each balloon to reveal your message.</p>
+      <p class="tiny" id="balloonHint">Nee msg chudalani unte anni budagalni pagalakottu.</p>
       <div class="continue-wrap" id="balloonContinue" style="visibility:hidden"><button class="primary" onclick="next()">Continue →</button></div>
     </div>
   </section>
 
   <section class="scene" id="cakeScene">
     <div class="inner">
-      <h2>A little birthday wish</h2>
+      <h2>Oka Chinna Bday Wish!!</h2>
       <div class="cake">🎂</div>
-      <p class="cake-sub">Make a wish and keep it close to your heart.</p>
-      <button class="primary" onclick="next()">Continue →</button>
+      <p class="cake-sub">Oka Chinna Korika Koruko! Peddadi ante nen wish purthicheyyalenu.</p>
+      <button class="primary" onclick="next()">Nokki Saav →</button>
     </div>
   </section>
 
@@ -194,10 +194,10 @@ button{font-family:'DM Sans',sans-serif;cursor:pointer}
 
   <section class="scene" id="letterScene">
     <div class="inner">
-      <h2>A Message From My Heart</h2>
+      <h2>Oka Chinna Uttaram Neekosam!</h2>
       <div id="envelopeWrap" onclick="openLetter()">
         <div class="envelope"><span class="seal">♥</span></div>
-        <p class="tiny">Tap the envelope to open your letter</p>
+        <p class="tiny">Ala kallappaginchi chudakunda, Uttaram Cover meeda nokku</p>
       </div>
       <div id="letterWrap" style="display:none">
         <div class="letter-card"><span class="letter-heart">♥</span><p id="letterText"></p><span class="tiny-photo">✨</span></div>
@@ -212,7 +212,7 @@ button{font-family:'DM Sans',sans-serif;cursor:pointer}
         <div style="font-size:3.3rem;line-height:1.3;">🐰 🧸</div>
         <div style="color:#a77c32;letter-spacing:.16em;font-size:.8rem;">♡ LOVE ♡</div>
       </div>
-      <h2>Lots of love for you ♡</h2>
+      <h2>Chaala Santhosham neekosam</h2>
       <p class="cake-sub" id="finalSignature">With love, your best friend</p>
       <button class="primary" onclick="replay()">↻ Replay</button>
       <p id="finalConfetti" style="font-size:1.5rem;min-height:30px"></p>
